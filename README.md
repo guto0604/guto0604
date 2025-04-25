@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @guto0604
 - 👀 I’m interested in Statistics, Data Science and Analytics
-- 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on Data Science Projects
 - 📫 How to reach me: augusto060401@gmail.com 
 
